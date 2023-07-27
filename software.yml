@@ -1,0 +1,7 @@
+- title: "OpenML"
+  description:
+    Machine learning research should be easily accessible and reusable.
+    `OpenML` is an open platform for sharing datasets, algorithms, and
+    experiments - to learn how to learn better, together.
+  website: https://www.openml.org/
+  github: https://github.com/openml/OpenML

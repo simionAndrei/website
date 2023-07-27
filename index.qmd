@@ -1,0 +1,15 @@
+---
+title: "Home"
+---
+
+## Mission
+
+## Highlights
+
+## Vacancies
+
+## Contact
+
+***
+
+This website is powered by [Quarto](https://quarto.org/) and inspired from Drew Dimmery's blogpost: [Quarto for an Academic Website.](https://ddimmery.com/posts/quarto-website)
