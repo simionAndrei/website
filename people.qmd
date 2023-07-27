@@ -5,8 +5,6 @@ jupyter: python3
 section-divs: false
 ---
 
-fwfwfwfwfwf
-
 ```{python}
 import yaml
 from IPython.display import display, Markdown, HTML
