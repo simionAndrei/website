@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "This website is powered by Quarto and inspired from Drew Dimmery’s blogpost: Quarto for an Academic Website."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "software.html",
-    "href": "software.html",
-    "title": "Software",
-    "section": "",
-    "text": "OpenML\nMachine learning research should be easily accessible and reusable. OpenML is an open platform for sharing datasets, algorithms, and experiments - to learn how to learn better, together.\n\n        \n        Website\n     \n        \n        Github"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "People",
@@ -61,5 +33,12 @@
     "title": "Home",
     "section": "Contact",
     "text": "Contact\n\nThis website is powered by Quarto and inspired from Drew Dimmery’s blogpost: Quarto for an Academic Website."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "OpenML\nMachine learning research should be easily accessible and reusable. OpenML is an open platform for sharing datasets, algorithms, and experiments - to learn how to learn better, together.\n\n        \n        Website\n     \n        \n        Github"
   }
 ]
