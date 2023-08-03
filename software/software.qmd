@@ -6,8 +6,6 @@ section-divs: false
 ---
 
 ```{python}
-#| label: "software"
-#| id: "software"
 #| output: asis
 import yaml
 from IPython.display import display, Markdown, HTML

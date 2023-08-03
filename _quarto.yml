@@ -11,10 +11,11 @@ website:
       - index.qmd
       - text: "Research"
         menu: 
-          - file: projects.qmd
-          - file: publications.qmd
-      - software.qmd
-      - people.qmd
+          - file: research/projects.qmd
+          - file: research/publications.qmd
+          - file: research/blog.qmd
+      - software/software.qmd
+      - people/people.qmd
     right:
       - icon: github
         href: https://github.com/openml-labs/website
