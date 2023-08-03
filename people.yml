@@ -1,11 +1,5 @@
-User 1: # Put your name here
+Alexis Cvetkov-Iliev: # Put your name here, it will replace <name> in the description
   position: postdoc # permanent, engineer, postdoc or phd
   description:
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
-  picture: images/people/user.png
-
-User 2: # Put your name here
-  position: permanent # permanent, engineer, postdoc or phd
-  description:
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  picture: images/people/user.png
+    <name> is a postdoc in the group, applying machine-learning techniques to study and optimize building renovation. His research interests include active learning, Bayesian optimization, and transfer learning.
+  picture: images/people/alexis_cvetkov.jpg

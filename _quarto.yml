@@ -15,6 +15,9 @@ website:
           - file: publications.qmd
       - software.qmd
       - people.qmd
+    right:
+      - icon: github
+        href: https://github.com/openml-labs/website
 
 format:
   html:
