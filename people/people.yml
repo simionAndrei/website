@@ -3,3 +3,12 @@ Alexis Cvetkov-Iliev: # Put your name here, it will replace <name> in the descri
   description:
     <name> is a postdoc in the group, applying machine-learning techniques to study and optimize building renovation. His research interests include active learning, Bayesian optimization, and transfer learning.
   picture: ../images/people/alexis_cvetkov.jpg
+
+Pieter Gijsbers:
+  position: engineer
+  description:
+    <name> is working on making (automated) machine learning research simple through developing open source software.
+    He is a long-term contributor to <a href="https://github.com/openml/openml-python" target="_blank">openml-python</a>,
+    started the <a href="https://github.com/openml/automlbenchmark" target="_blank">AutoML Benchmark</a> and 
+    <a href="https://github.com/openml-labs/gama" target="_blank">GAMA</a>, and is currently rewriting the OpenML server in Python.
+  picture: ../images/people/pieter_gijsbers.webp
